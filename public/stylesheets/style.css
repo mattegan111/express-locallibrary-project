@@ -1,32 +1,5 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
-
-a {
-  color: #00B7FF;
-}
-
-h1 {
-  color: orange;
-}
-
-h2 {
-  color: peachpuff;
-}
-
-h3 {
-  color: orange;
-}
-
-h4 {
-  color: lime;
-}
-
-h5 {
-  color: lemonchiffon;
-}
-
-h6 {
-  color: plum;
+.sidebar-nav {
+  margin-top: 20px;
+  padding: 0;
+  list-style: none;
 }
